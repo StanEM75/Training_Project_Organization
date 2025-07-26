@@ -13,3 +13,14 @@ I've created a notebook called `Create_Variables` where I just practiced some ba
 - 🔁 Loops and conditions  
 - 🧩 Functions  
 - 📚 Lists and dictionaries
+
+## 🗂️ Part 2: Structure a data project
+
+Folder: `mon_projet_ia`
+
+I've created a folder called `mon_projet_ia` where I just checked how to organize a data project, with useful subfolders:
+- 📊 data: Contains raw and processed data --> 1 raw_data.csv containing random values and 1 processed_data.csv containing processed data of raw_data.csv
+- 📤 models: Contains results of models trainings --> Nothing here
+- 📄 notebooks: Contains notebooks for exploration --> Copy of `Create_Variables.ipynb`
+- 📚 src: Contains data preparation files, model trainings and reusable functions
+- ➡️ tests: Contains tests to be applied --> Here 1 test to calculate the area of a circle
