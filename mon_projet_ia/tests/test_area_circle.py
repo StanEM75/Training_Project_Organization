@@ -1,5 +1,5 @@
 # tests/test_geometry.py
-from src.utils.geometry import aire_cercle
+from src.utils.geometry import calculate_area
 
 def test_aire_cercle():
-    assert round(aire_cercle(1), 2) == 3.14
+    assert round(calculate_area(1), 2) == 3.14

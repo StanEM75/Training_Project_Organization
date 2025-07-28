@@ -24,3 +24,9 @@ I've created a folder called `mon_projet_ia` where I just checked how to organiz
 - 📄 notebooks: Contains notebooks for exploration --> Copy of `Create_Variables.ipynb`
 - 📚 src: Contains data preparation files, model trainings and reusable functions
 - ➡️ tests: Contains tests to be applied --> Here 1 test to calculate the area of a circle
+
+## 🪧 Part 3: Add unit tests
+
+Subfolder: `mon_projet_ia/tests`
+
+I've created a subfolder called `tests` in `mon_projet_ia` where I just implemented some unit tests related to mathematical functions stored in `mon_projet_ia/src/utils/maths_utils.py`.
